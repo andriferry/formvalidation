@@ -7,8 +7,8 @@
 </p>
 
 ## Instalation 
-- Create Folder and the create file style.css
-  - Include tailwind in your css (style/tailwind.css)
+- Create tailwind.css
+  - Include tailwind in your css (tailwind.css)
     - @tailwind base;
     - @tailwind components;
     - @tailwind utilities;   
